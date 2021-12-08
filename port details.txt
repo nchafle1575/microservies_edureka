@@ -1,0 +1,10 @@
+user_servie :
+	port 9001
+
+contact_service :
+	port 9002
+
+e_server (eureka):
+	port 8769
+api_gatewat :
+	port 8999
